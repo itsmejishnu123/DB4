@@ -2,4 +2,8 @@ aws
 python
 java
 devops
+<<<<<<< HEAD
 azure
+=======
+gcp
+>>>>>>> a74c5daf02df3e5cbb164fcb194d56f982b20595
