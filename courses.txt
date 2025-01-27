@@ -4,3 +4,4 @@ java
 devops
 azure
 gcp
+oracle
